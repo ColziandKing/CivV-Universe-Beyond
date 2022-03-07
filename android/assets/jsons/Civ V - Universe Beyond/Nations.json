@@ -998,7 +998,7 @@
 		"defeated": "And so the flower of Dabawenyo falls to barbaric hands...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [62,197,252],
-		"cities": ["Florence"]
+		"cities": ["Davao City"]
 	},
 	{
 		"name": "Hanoi",
@@ -1022,7 +1022,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,0,76],
-		"cities": ["Kabul"]
+		"cities": ["Ulundi"]
 	},
 	//Kua lum
 	{
@@ -1202,7 +1202,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,0],
-		"cities": ["Singapore"]
+		"cities": ["Cebu"]
 	},
 	{
 		"name": "Tyre",
@@ -1227,7 +1227,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
-		"cities": ["Zanzibar"]
+		"cities": ["Suzainswellia"]
 	},
 
 	{

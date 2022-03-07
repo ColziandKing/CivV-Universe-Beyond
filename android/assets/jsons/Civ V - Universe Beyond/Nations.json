@@ -1155,7 +1155,7 @@
 	},
 
 	{
-		"name": "Antwerp",
+		"name": "Byblos",
 		"adjective": ["Antwerp"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
@@ -1204,19 +1204,7 @@
 		"innerColor": [255,255,0],
 		"cities": ["Cebu"]
 	},
-	{
-		"name": "Tyre",
-		"adjective": ["Tyrian"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,97,255],
-		"cities": ["Tyre"]
-	},
+	//Tyre
 	{
 		"name": "Suzainswellia",
 		"adjective": ["Suzainswellian"],
@@ -1290,18 +1278,7 @@
 		"innerColor": [255,128,0],
 		"cities": ["M'Banza-Kongo"]
 	},
-	{
-		"name": "Sidon",
-		"adjective": ["Sidon"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "What a fine battle! Sidon is willing to serve you!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [250,128,114],
-		"cities": ["Sidon"]
-	},
+	//Sidon
 	{
 		"name": "Valletta",
 		"adjective": ["maltese"],
